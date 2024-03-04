@@ -11,13 +11,13 @@ This is API for Pothole Detection using Darknet YOLOv4.
 Clone the project
 
 ```bash
-  git clone https://github.com/brianadit24/PotholeDetection
+  git clone https://github.com/isa96/pothole
 ```
 
 Go to the project directory
 
 ```bash
-  cd PotholeDetection
+  cd pothole
 ```
 
 Create and start API service
